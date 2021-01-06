@@ -109,16 +109,14 @@ section{
 }
 .work-enquiry-section{
     width: 100%;
-    height: 800px;
+    height: 600px;
     float:left;
-    padding-top: 101px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-top: 20px;
     padding-right: 0;
 }
 #work-enquiry{
     background-image: url("shapes/Group_33094_1.png");
-    height: 25%;
+    height: 60%;
     width: 60%;
     background-repeat: no-repeat;
     background-position: center;
@@ -132,7 +130,7 @@ section{
     line-height: 64px;
     color: white;
     float: left;
-    padding-top: 8px;
+    padding-top: 90px;
     padding-left: 70px;
 }
 #work-enquiry a{
@@ -141,5 +139,36 @@ section{
     float: left;
     padding: 18px 32px;
 }
+#footer{
+    float: left;
+    margin-top: -30px;
+}
 
+#footer h6{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    color: #696871;
+    padding-left:  615px;
+}
 
+#footer h4{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #363958;
+    padding-left:  520px;
+    margin-top: -40px;
+}
+#footer-img{    
+    padding-left:  550px;
+    margin-top: -20px;
+}
+#footer-img img{
+    width:10%;
+    padding-left: 30px;
+}
